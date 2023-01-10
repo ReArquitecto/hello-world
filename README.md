@@ -2,7 +2,7 @@
 
 A simple project in Python created to familiarize myself with GitHub. It contains a simple program that prints out a message to the console.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/7fowN5qnMug)
 
 # Development Environment
 

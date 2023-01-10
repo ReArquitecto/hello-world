@@ -1,6 +1,6 @@
-print("Hello World!")
+print("\nHello World!")
 
-name = input("What is your name? ")
+name = input("\nWhat is your name? ")
 
-print(f"Hello {name}!")
+print(f"\nHello {name}!")
 print("It's nice to meet you.")
